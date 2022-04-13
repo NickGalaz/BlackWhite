@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+form {
+    font-size:larger;
+    text-align: center;
+    padding-top: 8em;
+}
+
+button{
+    font-size:medium;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 5%;
+    margin-top: 5px;
+}
+
+h3 {
+    text-align: center;
+}
+
+input {
+    width: 50%;
+}
